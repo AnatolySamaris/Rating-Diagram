@@ -14,7 +14,6 @@ The program does not mean a lot, I just wanted to try new lib DearPyGui and crea
 my group.
 
 ## Examples
--------------------------
 
 Initial state. Here we can immediately see AM-19 group diagram:
 ![image](https://user-images.githubusercontent.com/92950839/216827550-fec6283c-f9e7-4b89-902c-c3ded4b82df3.png)
