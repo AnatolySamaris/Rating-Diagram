@@ -28,7 +28,7 @@ And also if we try to get better rating...
 ![image](https://user-images.githubusercontent.com/92950839/216827805-bbe46db8-1d0f-498b-be52-826308592ec4.png)
 
 The group "AM-20" was left empty on purpose, here we can "create" a group rating from scratch. But now there's no students from AM-20,
-and we have this:
+and we have this:<br>
 ![image](https://user-images.githubusercontent.com/92950839/216827919-34d90101-2d26-4e3a-933b-161c7e1262c1.png)
 
 
