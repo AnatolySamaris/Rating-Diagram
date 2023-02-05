@@ -96,7 +96,7 @@ with dpg.window(label="Students performance", height=530, width=640,
         dpg.set_value("logs", "")
 
 
-dpg.create_viewport(title='Drawing Plot', height=565, width=645, resizable=False)
+dpg.create_viewport(title='Rating Diagram', height=565, width=645, resizable=False)
 dpg.setup_dearpygui()
 dpg.show_viewport()
 dpg.start_dearpygui()
